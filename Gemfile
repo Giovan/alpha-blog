@@ -16,8 +16,8 @@ gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use Uglifier as compressor for JavaScript assets
-gem 'bootstrap', '~> 4.3.1'
-# Bootstrap JavaScript depends on jQuery. If you're using Rails 5.1+, add the jquery-rails gem
+gem "bootstrap-sass", '~> 3.4.1'
+# jquery Rails
 gem 'jquery-rails'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
